@@ -1,0 +1,9 @@
+
+
+A lecturer of a prestigious institution has his PhD project on some of the basic rudiments of python.This projects were
+majorly focused on data types in python.The lecturer created 6 different types of variables. Each of these variables ends
+with 'id' referencing those data types.
+At line 50, the lecturer decided to work on the interpreter section making use of the context 'isinstance'.Determine the
+boolean value of each of the variables
+
+

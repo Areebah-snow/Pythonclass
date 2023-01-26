@@ -1,0 +1,25 @@
+A professor of Bolton created a thesis on a topic evolving around computational security.
+He created a list of 10 different text files. 
+The first is 'security in the cloud',
+Second:hardware security, 
+third: operational security,
+fourth: End-user-awareness,
+Fifth: quantum security,
+Sixth: IOT Security,
+Seventh: IOE Security,
+Eigth: Application security,
+Ninth: Web security,
+Tenth: Data security. The professor focused on cloud security and created a thesis along that line.
+The professor made use of all the methods in his test to solve the problem relating to cybersecurity.
+Before precision, the professor named the thesis 'Cyber'.
+Deduce the brain teaser.
+
+
+append
+insert
+copy
+pop
+remove
+sort
+index
+extend

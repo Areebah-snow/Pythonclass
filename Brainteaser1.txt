@@ -1,0 +1,23 @@
+------------------------BRAINTEASER 1-------------------------------
+A student of Aptech Educational center , writes lines of code from one to hundred. The student was more focused on
+reading code and understood the rudiments of his code infrastructure.
+At line 10, there was a name error. This error was making reference to a function called school on the student code.
+At line 55, the student experienced another error.This error was making reference to a syntax based error which
+was caused by a mistake from the student.
+At the end of the code rhythm, the student realised that there were three other errors which were Index error,
+key error and IO error.
+The key error of the student encountered makes reference to a student ID missing. 
+The index error makes reference to a variable name called 'class id' having an index ranging from 0-9
+The IO error makes reference to a file called 'student.pdf'. At the end of the session, the student was able to
+solve all the error based problem.
+Deduce the Brain Teaser above:
+
+Name error at line 10: school is not defined
+Syntax error: An invalid syntax
+KeyError: 'ID' missing
+
+
+
+
+
+
