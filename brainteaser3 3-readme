@@ -1,7 +1,0 @@
-------------------------------BRAINTEASER3-----------------------------------
-A car dealer whose store is situated inside of mushin, ladipo has varieties of car types ranging from Toyota to Benz.
-There are 7 different cars in the car dealer shop. Each of these cars are situated with the context 'type'. 
-One of the cars named 'Mercedez Benz' is of a string class. 
-The other car 'Toyota Camry' has a floating point.
-Another car called 'G-Wagon' has an undefined class.
-Create a representation of the other classes of cars available in the dealers shop
