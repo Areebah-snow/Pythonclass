@@ -1,0 +1,9 @@
+A librarian who has different interesting books in her collection ranging from Sciences to 
+Arts. The number of books in a librarian shelf of a librarian are roughly 20. This books are 
+focused on imagination, conceptualization, intelligence, consciousness. The librarian include some
+string context referencing the four values. At a certain point , a slice occured from index 2 to 6 for intelligence. 
+At some other point referencing conceptualization, another slice occured from index 5 to 0.
+The librarian now decided to know the length of each character of a particular string. The
+librarian continued further reading books on intelligence and decided to access a specific value 
+ranging from index 4 to 7. In the end, the librarian was able to understand the gimmick behind all
+four values. Deduce the brain teasr above
