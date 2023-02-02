@@ -1,0 +1,7 @@
+A food court named 'Kitties' sells different varieties of food. Examples of those food are fried rice and chicken, abula
+and gbegiri with egunfe, yam pottage, ikokore, chicken and chips. An individual walks into kitties to order two varieties 
+of food. At a certain instance, the server made an error giving out those specialised food to the customer. Determine the
+length of the error made by the server.
+
+
+Generate an error. then determine the length. Put in a list
